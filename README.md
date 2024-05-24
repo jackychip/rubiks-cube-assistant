@@ -1,4 +1,4 @@
-# Rubik’s Cube Assistant (WIP) – Jacky Zhang
+# Rubik’s Cube Assistant (WIP)
 
 ## Introduction
 
